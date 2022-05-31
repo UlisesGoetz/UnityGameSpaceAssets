@@ -71,4 +71,6 @@ public class PlayerMove : MonoBehaviour
                  }
         }
     }
+    //Funcion para morir con un disparo
+
 }
